@@ -10,3 +10,4 @@ This repository contains some scripts, i wrote for stupid reasons. Saving it for
   - Shellcode is passed as a header file.
   - Uses simple Win32 API calls.
   
+- More to follow:
