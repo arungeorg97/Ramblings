@@ -12,10 +12,7 @@ This repository contains some scripts, i wrote for stupid reasons. Saving it for
   
   
  - Loader - A Simple Loader:
-  - Using NtCalls.
-  - Xor Decryption Routine.
-  - Shellcode is passed as a RC file , thanks to Sektor7.
-  - Runtime delay using 7 digit prime calculation.
+    -blah
 
 
 
