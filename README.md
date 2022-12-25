@@ -12,7 +12,7 @@ This repository contains some scripts, i wrote for stupid reasons. Saving it for
   
   
  - Loader - A Simple Loader:
-    -blah
+    
 
 
 
